@@ -42,5 +42,5 @@ def jwfcj(target_url):
 
 
     return [pre_title, pre_keywords, pre_content_full]
-
+# nice code brother
 
